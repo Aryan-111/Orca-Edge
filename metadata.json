@@ -1,0 +1,5 @@
+{
+  "name": "Orca-Edge",
+  "description": "An AI-powered HR manager, Orca, conducts a simulated 15-question interview based on your uploaded CV, providing detailed feedback and scoring to help you prepare for real job interviews.",
+  "requestFramePermissions": []
+}
